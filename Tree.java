@@ -170,7 +170,7 @@ public class Tree {
                 while (localStack.isEmpty()==false)
                     globalStack.push(localStack.pop());
 
-
+//test
         }
         System.out.println(separator);
     }

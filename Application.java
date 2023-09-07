@@ -2,6 +2,7 @@ package BinaryTree;
 
 public class Application {
     public static void main(String[] args) {
+        //test
         Tree tree=new Tree();
         tree.insertNode(6);
         tree.insertNode(8);

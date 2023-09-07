@@ -20,7 +20,7 @@ public class Node {
     public Node getLeftChild() {
         return leftChild;
     }
-
+    //test
     public void setLeftChild(Node leftChild) {
         this.leftChild = leftChild;
     }
